@@ -1,2 +1,1 @@
-# zadanie3
-zadanie 3 lista 6 pwi
+Zadanie 3 z listy 6 z PWI
